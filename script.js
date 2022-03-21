@@ -3,3 +3,9 @@ console.log(1);
     console.log(as);
   }
 sadas
+
+  function asa() {
+    console.log('Hello, world!');
+  }
+
+  asa()
